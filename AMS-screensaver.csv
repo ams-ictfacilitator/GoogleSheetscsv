@@ -1,0 +1,5 @@
+Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
+Exhibit01,https://github.com/NU-ITS/Exhibit/raw/master/Demo/Exhibit01.png,Sat Dec 30 1899 13:21:20 GMT+0521 (India Standard Time),Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time),Mon Jan 01 2018 13:30:00 GMT+0530 (India Standard Time),12/31/30 23:59,yes
+Exhibit02,https://github.com/NU-ITS/Exhibit/raw/master/Demo/Exhibit02.png,Sat Dec 30 1899 13:21:20 GMT+0521 (India Standard Time),Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time),Mon Jan 01 2018 13:30:00 GMT+0530 (India Standard Time),12/31/30 23:59,yes
+Exhibit03,https://github.com/NU-ITS/Exhibit/raw/master/Demo/Exhibit03.png,Sat Dec 30 1899 13:21:20 GMT+0521 (India Standard Time),Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time),Mon Jan 01 2018 13:30:00 GMT+0530 (India Standard Time),12/31/30 23:59,yes
+Exhibit04,https://github.com/NU-ITS/Exhibit/raw/master/Demo/Exhibit04.png,Sat Dec 30 1899 13:21:20 GMT+0521 (India Standard Time),Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time),Mon Jan 01 2018 13:30:00 GMT+0530 (India Standard Time),12/31/30 23:59,yes
