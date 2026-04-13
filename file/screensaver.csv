@@ -2,7 +2,6 @@ Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
 (Bulk 1) To - 1.jpg,https://drive.google.com/file/d/1MkP7c6ltj5-kEepl92bnEWquSslppUDi/view,0:00:10,1:00:00,1/1/18 13:30,12/31/30 23:59,yes
 (Bulk 1) To - 10.jpg,https://drive.google.com/file/d/17IS8CNRDnZ07rBD2rTLh2uCDhmLsBoOj/view,0:00:10,1:00:00,1/1/18 13:30,12/31/30 23:59,yes
 (Bulk 1) To - 11.jpg,https://drive.google.com/file/d/1gz2ujpJ5yVFYyx-1oRgIIQPC0AxTmFXr/view,0:00:10,1:00:00,1/1/18 13:30,12/31/30 23:59,yes
-(Bulk 1) To - 12.jpg,https://drive.google.com/file/d/1booL6tCFds_ocqa0s08D3_aqTLqxiiwU/view,0:00:10,1:00:00,1/1/18 13:30,12/31/30 23:59,yes
 (Bulk 1) To - 13.jpg,https://drive.google.com/file/d/17uMqGs5sn4_VriDACDOTNMY2Z7edwbds/view,0:00:10,1:00:00,1/1/18 13:30,12/31/30 23:59,yes
 (Bulk 1) To - 14.jpg,https://drive.google.com/file/d/1v1Lgt2QCue1cGd5-ZAj-WpB5V02afn_7/view,0:00:10,1:00:00,1/1/18 13:30,12/31/30 23:59,yes
 (Bulk 1) To - 15.jpg,https://drive.google.com/file/d/17xTAxVFHjfowUQlinNzCDvdcoRhk5i6S/view,0:00:10,1:00:00,1/1/18 13:30,12/31/30 23:59,yes
@@ -18,3 +17,4 @@ Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
 (Bulk 1) To - 7.jpg,https://drive.google.com/file/d/1cDBbVc2NkNWwKx97vdV7pIf-cSg7YUEo/view,0:00:10,1:00:00,1/1/18 13:30,12/31/30 23:59,yes
 (Bulk 1) To - 8.jpg,https://drive.google.com/file/d/1ENqVc4LbXw8RhIuwzgX24FjZ33bGsh0y/view,0:00:10,1:00:00,1/1/18 13:30,12/31/30 23:59,yes
 (Bulk 1) To - 9.jpg,https://drive.google.com/file/d/1C73A05ElFp0OCR6i6woXkA5WCmiRJDfo/view,0:00:10,1:00:00,1/1/18 13:30,12/31/30 23:59,yes
+(Bulk 1) To.jpeg,https://drive.google.com/file/d/1FmrYlJKr92x7lbgnYGP1REPURmlpS6Ms/view,0:00:10,1:00:00,1/1/18 13:30,12/31/30 23:59,yes
